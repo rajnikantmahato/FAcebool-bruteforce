@@ -17,3 +17,8 @@ pip2 install -r requirements.txt
 
 
 Python2 facebook.py2
+E
+
+python2 RAjni$_fbband.py
+now
+RAjni$_fbband.py
